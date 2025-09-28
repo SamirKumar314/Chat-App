@@ -5,6 +5,11 @@ A simple web-based chat UI.
 - Frontend: HTML, CSS, and JavaScript
 - Backend: NodeJS, ExpressJS, and MySQL
 
+## Some Glimpses
+![incognito-off](https://drive.google.com/uc?export=view&id=1sotzwrKXHgAN4GzPxN85raVpNg6WCpfY)
+
+![incognito-on](https://drive.google.com/uc?export=view&id=1oILfWi0KLUJ50E2ZfSofPVzQFDf284BX)
+
 ## Installation
 ### 1. Create a database
 - Create the database and table as following:
