@@ -24,10 +24,7 @@ select * from messages
 ### 2. Install all modules and dependencies and run the backend
 - NodeJS should be installed on the system:
 ```sh
-cd .\backend\
-npm init -y
-npm install express mysql2 cors body-parser
-cd ..
+npm install
 node .\backend\server.js
 ```
 
