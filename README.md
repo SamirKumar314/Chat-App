@@ -20,13 +20,18 @@ timestamps timestamp default current_timestamp
 );
 select * from messages
 ```
+### 2. Clone the repository
+```sh
+git clone https://github.com/SamirKumar314/Chat-App.git
+cd Chat-App
+```
 
-### 2. Install all modules and dependencies and run the backend
+### 3. Install all modules and dependencies and run the backend
 - NodeJS should be installed on the system:
 ```sh
 npm install
 node .\backend\server.js
 ```
 
-### 3. Run the frontend
+### 4. Run the frontend
 - Open the `index.html` file in a browser or open with live server
